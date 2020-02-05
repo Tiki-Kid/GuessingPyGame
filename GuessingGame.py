@@ -5,7 +5,7 @@ randnum = random.randint(1, 20)
 
 # game introduction message
 print("Welcome to the guessing game were i'm going to generate a random number between 1-20 and you're going to get "
-      "3 tries to try and guess it.")
+      "3 attempts to try and guess it.")
 print("Good Luck! ^_^")
 
 num = 0     # Initializes the num variable variable for the input to 0
